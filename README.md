@@ -25,11 +25,11 @@ Realizamos o pré-processamento dos dados, incluindo análise de médias, desvio
 
 - **Clusters**: 2
 
-# Dados Originais:
+#### Dados Originais:
 
 ![image](https://github.com/IsadoraPrevitalle/Agrupamento_Instituicao/assets/104457205/c416730b-26ed-43ec-accc-a7703662e1a7)
 
-# Dados Previstos:
+#### Dados Previstos:
 
 ![image](https://github.com/IsadoraPrevitalle/Agrupamento_Instituicao/assets/104457205/3675c60c-e69f-49e4-8de1-03e337599167)
 
@@ -38,11 +38,11 @@ Realizamos o pré-processamento dos dados, incluindo análise de médias, desvio
 
 - **Raio**: 0.5
 
-# Dados Originais:
+#### Dados Originais:
 
 ![image](https://github.com/IsadoraPrevitalle/Agrupamento_Instituicao/assets/104457205/20263b06-97d1-4e01-8824-78086965e0b2)
 
-# Dados Previstos:
+#### Dados Previstos:
 
 ![image](https://github.com/IsadoraPrevitalle/Agrupamento_Instituicao/assets/104457205/0c3cf9e7-752a-438d-a2e7-5bb1560abf2a)
 
